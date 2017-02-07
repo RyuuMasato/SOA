@@ -1,0 +1,4 @@
+commit  = unique tag for "committed changes" on a certain branch provided with message, name and difference
+push    = uploading of commit
+pull    = downloading of commit
+merge   = merging of changes from the repository on your local device
